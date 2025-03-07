@@ -2,6 +2,12 @@
 draft: false
 title: Willkommen Abenteuerlustige
 ---
+Dies ist die Wundervolle Quest-Tafel von "Gildennamen".
 
-title: Willkommen Abenteuerlustige
-draft: false
+Momentan noch offene Quests:
+- [Dungeon Fight](Dungeon%Fight.md)
+- [Auxerre](Auxerre.md)
+
+
+Abgeschlossene Quests:
+
