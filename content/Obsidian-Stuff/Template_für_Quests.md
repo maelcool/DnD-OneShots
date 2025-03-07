@@ -59,14 +59,9 @@ draft: false
 - **Ausrüstung vorbereiten** – Jeder Abenteurer sollte gut gerüstet sein.
 - **Treffen in {{Ort}}** – Der Sammelpunkt vor dem Aufbruch.
 - ---
-## ⚔️ **Angemeldete Abenteurer**
+## ⚔️ Meldung auf Discord
 
-| #   | Name   |
-| --- | ------ |
-| 1   | [Leer] |
-| 2   | [Leer] |
-| 3   | [Leer] |
-| 4   | [Leer] |
+
 
 > _„Lasst jene, die nach Ruhm und Reichtum streben, ihre Namen darunter setzen!“_
 ---

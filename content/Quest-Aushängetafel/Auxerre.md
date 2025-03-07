@@ -4,9 +4,9 @@ draft:
 tags:
   - DM-Mael
 ---
+![[Auxerre_Bild.webp]]
 
 Diese Session ist null Kampf fokussiert und soll vorallem intriegen, heimlichkeit und Soziale Interaktion fordern. Die Grundidee sind moralische Entscheidungen. Genauere Details folgen noch. Bitte meldet euch bis um 13.03 an, damit ich planen kann.
-
 
 Ihr seid alle in der Stadt Auxerre. Bitte gibt euren PC einen Grund wieso sie in der Stadt sind (im spezifischen auf einem öffentlichen Platz). Das ganze ist keine direkte Quest von der Gilde. 
 
