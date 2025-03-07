@@ -10,6 +10,7 @@ Momentan noch offene Quests:
 
 Berichte von den vergangenen Quests:
 - [Bericht Ulneas Museum](Bericht_Ulneas_Museum.md)
+
 Abgeschlossene Quests:
 - [Ulneas Museum](Ulneas_Museum.md)
 
