@@ -1,7 +1,10 @@
+---
 title: Befreiet den Dungeon
 draft: false
 tags:
   - DM-Mael
+---
+
 Hauptsächlich ein Event um auch TableSpire zu erkunden. Ladet euch bitte zuvor Table Spire Guest Version runter
 Meldet euch bitte bis 8.03.25 
 Maximal 4 Personen: First Come, First Serve 
