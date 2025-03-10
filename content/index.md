@@ -1,11 +1,7 @@
 ---
 title: Welcome to Quartz 4
 ---
-draft: false
- title: Willkommen Abenteuerlustige
- title: Welcome to Quartz
- ---
- Dies ist die Wundervolle Quest-Tafel von "Gildennamen".
+ Dies ist die Wundervolle Quest-Tafel von "Deine Mutter stinkt".
  
  Momentan noch offene Quests:
  -  [Befreiet den Dungeon](Dungeon_Fight.md)
