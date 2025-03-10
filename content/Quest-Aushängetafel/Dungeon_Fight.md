@@ -20,3 +20,4 @@ Die Kampfguilde "Living Vanguards" hat eine Quest ausgesetzt. Sie will, dass ihr
 - Regel: 2014 5e Regelset (normal) - Homebrew einfach kurz fragen 
 - Kein PVP 
 - [https://www.youtube.com/watch?v=yXpcmCF1CB4](https://www.youtube.com/watch?v=yXpcmCF1CB4 "https://www.youtube.com/watch?v=yXpcmCF1CB4") Für eine Movement-Video
+
