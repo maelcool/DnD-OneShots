@@ -5,17 +5,6 @@ tags:
   - DM-Mael
   - Quest
 ---
-Mit dabei:
-	Pristalice, der Barde und sein begleiter:
-	Ein Dragon Paladin
-
-
-
-
-
-
-
-
 
 Hauptsächlich ein Event um auch TableSpire zu erkunden. Ladet euch bitte zuvor Table Spire Guest Version runter
 Meldet euch bitte bis 8.03.25 
@@ -31,4 +20,3 @@ Die Kampfguilde "Living Vanguards" hat eine Quest ausgesetzt. Sie will, dass ihr
 - Regel: 2014 5e Regelset (normal) - Homebrew einfach kurz fragen 
 - Kein PVP 
 - [https://www.youtube.com/watch?v=yXpcmCF1CB4](https://www.youtube.com/watch?v=yXpcmCF1CB4 "https://www.youtube.com/watch?v=yXpcmCF1CB4") Für eine Movement-Video
-
