@@ -3,8 +3,9 @@ title: Die Stadt Auxerre
 draft: 
 tags:
   - DM-Mael
+banner: "![[Auxerre_Bild.webp]]"
 ---
-![[Auxerre_Bild.webp]]
+
 
 Diese Session ist null Kampf fokussiert und soll vorallem intriegen, heimlichkeit und Soziale Interaktion fordern. Die Grundidee sind moralische Entscheidungen. Genauere Details folgen noch. Bitte meldet euch bis um 13.03 an, damit ich planen kann.
 
