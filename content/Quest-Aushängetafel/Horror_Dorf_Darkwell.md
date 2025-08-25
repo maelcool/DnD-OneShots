@@ -18,4 +18,4 @@ Wir werden noch Abmachen wann, aber prinzipiell in den Herbstferien.
 - Es ist Horror, ihr dürft euch gerne ausmalen, ob ihr Kampf braucht
 
 - Füllt bitte dies noch aus:
-  [Google Forms]("https://docs.google.com/forms/d/e/1FAIpQLSe1di_BIO_xBA476npOylaAwvyetqGVRY3BzWnX8jWt0HiCQg/viewform?usp=dialog")
+  https://docs.google.com/forms/d/e/1FAIpQLSe1di_BIO_xBA476npOylaAwvyetqGVRY3BzWnX8jWt0HiCQg/viewform?usp=dialog
