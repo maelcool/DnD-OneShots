@@ -4,7 +4,7 @@ draft: false
 tags:
   - DM-Mael
   - Quest
-banner:
+banner: Horror-Bild
 ---
 Wir werden noch Abmachen wann, aber prinzipiell in den Herbstferien. 
 
