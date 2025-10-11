@@ -1,6 +1,9 @@
 
 
 # Genratoren
+**IDK, Mega viel. Unter anderem; loot, Magic, Kalender, Items, Reisen**
+https://dungeonmastertools.github.io/
+
 **NPC Generator**
 https://www.npcgenerator.com/
 
