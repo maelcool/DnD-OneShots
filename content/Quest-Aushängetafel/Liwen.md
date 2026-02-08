@@ -6,20 +6,13 @@ tags:
 draft: true
 banner: "[[KönigreichLiwen.jpg]]"
 ---
+Quest für wenn wir auf der Riederalp sind. Ich plane, dass das ganze so ca. 4-5 Stunden geht. 
 
+Ihr wurded von dem Königreich Liwen angeheuert, den Tempel der Göttin Talona (Göttin von Gift und Seuchen) wieder besuchbar zu machen, da momentan eine schreckliche Seuche das Königreich heimsucht. Die Königin Meira Yeskas und ihr Hofrat hoffen, dass mit genügend Anbetung die Seuche verschwindet. Ihr macht euch also auf den Weg zum Tempel und das Abenteuer beginnt dann vor dem Tempel. 
 
-
-Hauptsächlich ein Event um auch TableSpire zu erkunden. Ladet euch bitte zuvor Table Spire Guest Version runter
-Meldet euch bitte bis 8.03.25 
-Maximal 4 Personen: First Come, First Serve 
-
-Die Kampfguilde "Living Vanguards" hat eine Quest ausgesetzt. Sie will, dass ihr den örtlichen Dungeon von allen Monstern befreit, damit das Dorf in der Umgebung wieder besiedelt werden kann. Der Dungeon wird nicht einfach werden, es sind schon viele Helden darin verschwunden. Doch vielleicht seid ihr ja stark genug? Nur die Zeit wird es zeigen. 
-
-- Lvl: 6 
-- Hauptsächlich: Kampf und Fallen 
+- Lvl: 10 
 - Point-Buy System
-- Kurze Backstory, hauptsächlich Fighten
-- Bitte kenntvorallem eure Attacks 
+- Kurze Backstory, wird nicht mega wichtig
 - Regel: 2014 5e Regelset (normal) - Homebrew einfach kurz fragen 
-- Kein PVP 
-- [https://www.youtube.com/watch?v=yXpcmCF1CB4](https://www.youtube.com/watch?v=yXpcmCF1CB4 "https://www.youtube.com/watch?v=yXpcmCF1CB4") Für eine Movement-Video
+- Kein PVP, pls :)
+- Würd mich freuen, wenn ihr auch viel Role-Player / irgendwie euch wie euer Charakter anzieht oder so
