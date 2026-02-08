@@ -1,6 +1,6 @@
 ---
 title: Die Stadt Auxerre
-draft: 
+draft:
 tags:
   - DM-Mael
 banner:
