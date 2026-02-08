@@ -12,7 +12,9 @@ Ihr wurded von dem Königreich Liwen angeheuert, den Tempel der Göttin Talona (
 
 - Lvl: 10 
 - Point-Buy System
+- Ihr händ euer Startequipment + 600GP und ihr dörfet euch ein common oder uncommon Item usswähle. Idk was es alles hett, also behalt ich mir e Veto recht vor
 - Kurze Backstory, wird nicht mega wichtig
 - Regel: 2014 5e Regelset (normal) - Homebrew einfach kurz fragen 
+- Multiclass isch erlaubt, lueget eif d Regle ah
 - Kein PVP, pls :)
 - Würd mich freuen, wenn ihr auch viel Role-Player / irgendwie euch wie euer Charakter anzieht oder so
