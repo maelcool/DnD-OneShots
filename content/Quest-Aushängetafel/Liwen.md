@@ -8,7 +8,7 @@ banner: "[[KönigreichLiwen.jpg]]"
 ---
 Quest für wenn wir auf der Riederalp sind. Ich plane, dass das ganze so ca. 4-5 Stunden geht. 
 
-Im Königreich Liwen herrscht eine schreckliche Seuche, die hunderten das Leben kostet. Das Königreich Liwen hat eine Quest ausgehangen - für alle AbenteurerInnen welche mutig genug sind sie anzunehmen. 
+Im Königreich Liwen herrscht seit knapp über einem Jahr eine schreckliche Seuche, die hunderten das Leben kostet. Das Königreich Liwen hat eine Quest ausgehangen - für alle AbenteurerInnen welche mutig genug sind sie anzunehmen. 
 Ihr habt euch als Party beschlossen die Quest anzunehmen. Der One-Shot startet direkt vor dem Tempel der Gottheit Talona, der Tag ist der 7. im Monat Liwen. (Die Quest wird noch kommen, bin genaueres am schreiben)
 
 - Lvl: 10 
